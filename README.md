@@ -16,5 +16,5 @@
 
 在SEO优化方面，站点应通过合理的关键词布局、内链结构、外链建设等方式，提高站点在搜索引擎中的可见度。站点还应定期进行SEO诊断，了解关键词排名、流量来源等信息，不断调整优化策略。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben08)</span>
  
